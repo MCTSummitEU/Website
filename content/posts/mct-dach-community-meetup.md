@@ -7,7 +7,7 @@ cover = ""
 summary = "A German-language MCT gathering at Microsoft Munich, 4–5 September 2026."
 +++
 
-![German flag](/images/posts/flag-de.svg) This was a **German-language** local gathering of Microsoft Certified Trainers from the DACH region — not an MCT Summit EU event.
+![German flag](/images/posts/flag-de.svg) This was a **German-language** local gathering of Microsoft Certified Trainers from the DACH region.
 
 On 4 and 5 September 2026, MCTs met at Microsoft in Munich for a day of sessions, discussion, and networking, with an optional city tour on Saturday. Attendance was free.
 
