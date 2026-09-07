@@ -70,3 +70,14 @@ html[data-color-mode="dark"] .js-avatar-light {
 #header-search {
   margin-left: 1.25rem;
 }
+
+/* Small inline language flag in posts (e.g. German-only gatherings) */
+img[src$="flag-de.svg"] {
+  display: inline;
+  width: 1.35em;
+  height: auto;
+  vertical-align: -0.12em;
+  margin-right: 0.3em;
+  border: 1px solid var(--color-border-secondary, rgba(27, 31, 35, 0.15));
+  border-radius: 2px;
+}
