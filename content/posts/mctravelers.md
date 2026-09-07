@@ -4,7 +4,7 @@ date = 2026-05-02T12:00:00+02:00
 author = ""
 keywords = ["", ""]
 cover = ""
-summary = ""
+summary = "Which weekdays host MCT Summits most often? Thursday and Friday, from 2007 Zürich through 2027 Dublin."
 +++
 
 ![MCT Summits Europe](/images/posts/mct_summits_europe.svg)

@@ -29,5 +29,8 @@ layouts_site_backup/
 /IMPLEMENTATION.md
 /VISION.md
 
+## Accidental local downloads
+/Cloudflare Dashboard _ Manage Your Account.pdf
+
 ## Ignore nested git inside vendored themes
 themes/**/.git/

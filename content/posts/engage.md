@@ -4,7 +4,7 @@ date = 2026-03-15T11:29:28+01:00
 author = ""
 keywords = ["", ""]
 cover = ""
-summary = ""
+summary = "Dates, speakers, and session titles from past MCT summits — and a place to share corrections or pictures."
 +++
 
 You attended a past MCT summit? Check our content, from dates to speakers to session titles.

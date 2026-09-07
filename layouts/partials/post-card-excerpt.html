@@ -1,0 +1,6 @@
+{{- $custom := strings.TrimSpace (printf "%s" (.Params.summary | default "")) -}}
+{{- if $custom -}}
+{{- $custom | truncate 160 -}}
+{{- else -}}
+{{- .Plain | htmlUnescape | truncate 160 -}}
+{{- end -}}

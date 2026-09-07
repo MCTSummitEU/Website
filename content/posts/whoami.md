@@ -4,11 +4,9 @@ date = 2026-03-15T11:41:28+01:00
 author = ""
 keywords = ["", ""]
 cover = ""
-summary = ""
+summary = "Add yourself to the MCT globe map if you are not on it yet."
 +++
-
 
 [https://mctmap.com/](https://mctmap.com/)
 
 You are an MCT and not on the "MCT globe map"? [**Join here!**](https://forms.office.com/e/Y8XYPHeHr2)
-

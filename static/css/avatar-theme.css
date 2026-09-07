@@ -81,3 +81,21 @@ img[src$="flag-de.svg"] {
   border: 1px solid var(--color-border-secondary, rgba(27, 31, 35, 0.15));
   border-radius: 2px;
 }
+
+/* Homepage / posts list: keep excerpts short so cards stay even */
+.pinned-item-desc,
+.post-list-excerpt {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  overflow: hidden;
+}
+.pinned-item-desc img,
+.pinned-item-desc table,
+.pinned-item-desc h1,
+.pinned-item-desc h2,
+.pinned-item-desc h3,
+.post-list-excerpt img,
+.post-list-excerpt table {
+  display: none;
+}
