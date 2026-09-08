@@ -21,6 +21,9 @@ layouts_site_backup/
 ## Cursor IDE — skills, rules, MCP config; keep machine-local, do not commit
 # (Also covered by `.*` above; listed explicitly so .cursor/ stays out of git if `.*` is removed.)
 .cursor/
+AGENTS.md
+CLAUDE.md
+.cursorrules
 
 ## Local CI/CD vision notes (keep out of sync)
 .CICD.md
